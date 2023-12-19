@@ -31,9 +31,9 @@ A simple React app for managing chats with a user interface similar to the provi
 
 1. Clone the repository:
    ``` 
-   git clone https://github.com/your-username/react-chat-app.git
+   git clone https://github.com/shreya-mishra/chat-app.git
 
-   cd flip-chat 
+   cd chat-app 
    ```
 
 2. Install dependencies:
